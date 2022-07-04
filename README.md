@@ -1,5 +1,5 @@
 <h1 align="center"> NETFLIX - Clone </h1>
-<p align="center">Projeto para explorar conceitos HTML e CSS, Bootcamp DIO  HYML Web Developer<p>
+<p align="center">Projeto para explorar conceitos HTML e CSS - Bootcamp DIO HTML Web Developer<p>
 
 ----
 
